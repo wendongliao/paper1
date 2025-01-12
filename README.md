@@ -7,11 +7,11 @@ The videos corresponding to some of the images in the paper are below:
 ![1 1](https://github.com/user-attachments/assets/2368e43f-6bb0-4cc9-917f-bb015b8c6253)
 
 
-3. Receiver plane energy distribution calculated by the GCCPR-0D method:
+3. Receiving plane energy distribution calculated by the GCCPR-0D method:
 ![1 2_0d](https://github.com/user-attachments/assets/b4cc46b7-b8e3-4530-a9b0-89d214593ad0)
 
 
-4. Receiver plane energy distribution calculated by the GCCPR method:
+4. Receiving plane energy distribution calculated by the GCCPR method:
 ![1 2_5d](https://github.com/user-attachments/assets/7588794e-1917-4e12-9bf5-8959a9c06857)
 
 
